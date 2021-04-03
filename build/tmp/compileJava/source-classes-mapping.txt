@@ -1,0 +1,34 @@
+com/nov0cx/spigotdictionary/api/data/APlayerData.java
+ com.nov0cx.spigotdictionary.api.data.APlayerData
+ com.nov0cx.spigotdictionary.api.data.APlayerData$OfflinePlayerData
+com/nov0cx/spigotdictionary/api/executors/types/SpigotMainThreadExecutor.java
+ com.nov0cx.spigotdictionary.api.executors.types.SpigotMainThreadExecutor
+com/nov0cx/spigotdictionary/api/executors/SpigotDictionaryExecutor.java
+ com.nov0cx.spigotdictionary.api.executors.SpigotDictionaryExecutor
+com/nov0cx/spigotdictionary/api/modules/ModuleManager.java
+ com.nov0cx.spigotdictionary.api.modules.ModuleManager
+com/nov0cx/spigotdictionary/api/utils/FetchUtils.java
+ com.nov0cx.spigotdictionary.api.utils.FetchUtils
+ com.nov0cx.spigotdictionary.api.utils.FetchUtils$NameFetcher
+ com.nov0cx.spigotdictionary.api.utils.FetchUtils$UUIDFetcher
+com/nov0cx/spigotdictionary/api/data/PlayerDataManger.java
+ com.nov0cx.spigotdictionary.api.data.PlayerDataManger
+com/nov0cx/spigotdictionary/api/modules/Module.java
+ com.nov0cx.spigotdictionary.api.modules.Module
+ com.nov0cx.spigotdictionary.api.modules.Module$ModuleType
+com/nov0cx/spigotdictionary/api/SpigotDictionaryAPI.java
+ com.nov0cx.spigotdictionary.api.SpigotDictionaryAPI
+com/nov0cx/spigotdictionary/api/executors/types/RepeatingSpigotMainThreadExecutor.java
+ com.nov0cx.spigotdictionary.api.executors.types.RepeatingSpigotMainThreadExecutor
+com/nov0cx/spigotdictionary/api/executors/types/LaterSpigotMainThreadExecutor.java
+ com.nov0cx.spigotdictionary.api.executors.types.LaterSpigotMainThreadExecutor
+com/nov0cx/spigotdictionary/api/executors/ExecutorManager.java
+ com.nov0cx.spigotdictionary.api.executors.ExecutorManager
+com/nov0cx/spigotdictionary/api/executors/types/LaterExecutor.java
+ com.nov0cx.spigotdictionary.api.executors.types.LaterExecutor
+com/nov0cx/spigotdictionary/api/executors/types/NewThreadExecutor.java
+ com.nov0cx.spigotdictionary.api.executors.types.NewThreadExecutor
+com/nov0cx/spigotdictionary/api/executors/types/RepeatingExecutor.java
+ com.nov0cx.spigotdictionary.api.executors.types.RepeatingExecutor
+com/nov0cx/spigotdictionary/api/executors/types/NormalExecutor.java
+ com.nov0cx.spigotdictionary.api.executors.types.NormalExecutor
